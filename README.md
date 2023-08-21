@@ -1,4 +1,3 @@
-#student portfolio
+# student portfolio
 
-hi! I am Aditi.
-I like listenimg music.
+welcome to my portfolio!
